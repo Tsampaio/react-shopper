@@ -1,6 +1,7 @@
 [
   {
     "id": "1tE4nK",
+    "category": "Glassware",
     "name": "Bodega Glass 12 Oz",
     "sku": "sku_313355",
     "price": 295,
@@ -11,6 +12,7 @@
   },
   {
     "id": "IuFGYl",
+    "category": "Linen",
     "name": "Egyptian Cotton Bath Towels",
     "sku": "sku_313356",
     "price": 4995,
@@ -21,6 +23,7 @@
   },
   {
     "id": "VfcByl",
+    "category": "Nightstands",
     "name": "Cas Nightstand",
     "sku": "sku_622147",
     "price": 79900,
@@ -31,6 +34,7 @@
   },
   {
     "id": "1yF2Ib",
+    "category": "Coffee Machines",
     "name": "Brim 19 Bar Espresso Machine",
     "sku": "sku_125983",
     "price": 39999,
@@ -41,6 +45,7 @@
   },
   {
     "id": "x5m8g3",
+    "category": "Counter Stools",
     "name": "Curran Quilted Chocolate Counter Stool",
     "sku": "sku_559961",
     "price": 42900,
@@ -51,6 +56,7 @@
   },
   {
     "id": "6Bh3pq",
+    "category": "Throws",
     "name": "Eisen Obsidian Throw Blanket",
     "sku": "sku_119140",
     "price": 42900,
