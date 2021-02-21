@@ -1,4 +1,5 @@
 import React from "react";
+import ProductList from "../components/ProductList";
 
 export default function Home() {
   return (
@@ -16,7 +17,9 @@ export default function Home() {
             <div className="w-16 h-1 rounded-full bg-indigo-500 inline-flex" />
           </div>
         </div>
-        <div className="flex flex-wrap -m-4">Products</div>
+        <div className="flex flex-wrap -m-4">
+          <ProductList />
+        </div>
       </div>
     </section>
   );
